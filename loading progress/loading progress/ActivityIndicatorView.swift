@@ -2,7 +2,7 @@
 //  ActivityIndicatorView.swift
 //  loading progress
 //
-//  Created by Doris Trakarskys on 2022/5/15.
+//  Created by Doris Trakarskys on 2021/5/15.
 //
 
 import Foundation
