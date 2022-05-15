@@ -2,7 +2,7 @@
 //  GifImage.swift
 //  gif
 //
-//  Created by Doris Trakarskys on 2022/5/11.
+//  Created by Doris Trakarskys on 2022/1/21.
 //
 
 import SwiftUI
